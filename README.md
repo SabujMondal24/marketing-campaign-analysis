@@ -13,6 +13,8 @@ The primary objective of this project is to analyze customer demographic, financ
 * **Strategic Optimization:** Provided actionable recommendations to shift focus toward high-propensity segments (previous successes and high-education groups), which can lead to a more efficient allocation of marketing budget and higher ROI.
 
 
+
+
 ## Data Dictionary
 
 | Column Category | Feature Name | Description |
